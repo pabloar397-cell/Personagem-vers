@@ -1,0 +1,7 @@
+{
+  "name": "PersonaForge AI",
+  "description": "Upload a character image, define their persona using AI analysis, and engage in deep voice-enabled conversations. Features image editing, video generation, and high-fidelity text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
